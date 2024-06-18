@@ -1,14 +1,14 @@
-Project Name	Tourism Management System -TMS
+**Project Name : 	Tourism Management System -TMS
 
-Language      Used	PHP5.6, PHP7.x
+Language   :   Used	PHP5.6, PHP7.x
 
-Database	    MySQL 5.x
+Database	  :   MySQL 5.x
 
 User Interface Design	HTML, AJAX,JQUERY,JAVASCRIPT
 
 Web Browser	Mozilla, Google Chrome, IE8, OPERA
 
-Software	XAMPP / Wamp / Mamp/ Lamp (anyone)
+Software	XAMPP / Wamp / Mamp/ Lamp (anyone)**
 
 Modules of Tourism Management System in PHP
 Admin
@@ -62,8 +62,11 @@ Username : anuj@gmail.co
 Password : Test@123
 
 **Screenshots**
+
 ![Screenshot (56)](https://github.com/Yashwanth023/Tourism-management-system/assets/143989092/2b32ee59-82db-4ad5-b0d1-e5f18519de22)
+
 ![Screenshot (57)](https://github.com/Yashwanth023/Tourism-management-system/assets/143989092/1a165640-b214-4575-a78a-dbbd2a631708)
+
 ![Screenshot (60)](https://github.com/Yashwanth023/Tourism-management-system/assets/143989092/4e069871-63e3-41fc-b333-c068bc960663)
 
 
